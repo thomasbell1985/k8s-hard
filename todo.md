@@ -3,3 +3,4 @@
     * Perhaps we could plug into the devcontainer api to copy over those files.
 1. What if I want to install other plugins, could we do that by hooking into the devcontainer apigs
 1. Document setup and installation steps in the readme
+1. Plugin the git credentials so you can push up changes directly to git from inside the container. This should beconfigurable
