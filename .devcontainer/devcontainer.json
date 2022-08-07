@@ -1,0 +1,8 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile",
+        "args": {
+            "LOCAL_HOME": "${localEnv:HOME}"
+        }
+    }
+}
